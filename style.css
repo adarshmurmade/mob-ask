@@ -67,7 +67,7 @@ body{
     width: 300px;
     background-color: rgb(140, 15, 224);
     position: relative;
-    left: 8px;
+    left: 55px;
     top: 200px;
     border-radius: 25px;
 }
@@ -89,7 +89,7 @@ p{
     font-size: 40px;
     position:absolute;
     top: 500px;
-    left:170px;
+    left:215px;
     border-radius:17px;
 }
 
@@ -98,7 +98,7 @@ p{
     font-size: 40px;
     position:absolute;
     top: 500px;
-    left:80px;
+    left:130px;
     border-radius:17px;
 }
 
